@@ -1,1 +1,1 @@
-![andantet's github stats](https://github-readme-stats.vercel.app/api?username=andantet&custom_title=⭐+andante.+⭐&show_icons=true&theme=aura_dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=andantet&custom_title=GitHub+Stats&show_icons=true&theme=prussian)
