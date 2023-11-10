@@ -1,1 +1,3 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=andantet&custom_title=GitHub+Stats&count_private=false&show_icons=true&theme=midnight-purple)
+### Hello, it's Daniel! 👋
+
+I'm a programmer, coder, game developer and student.
